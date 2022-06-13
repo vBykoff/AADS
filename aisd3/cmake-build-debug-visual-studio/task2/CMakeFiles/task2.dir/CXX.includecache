@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vbyko/CLionProjects/aisd3/task2/main.cpp
+iostream
+-
+unordered_set
+-
+vector
+-
+cassert
+-
+queue
+-
+functional
+-
+

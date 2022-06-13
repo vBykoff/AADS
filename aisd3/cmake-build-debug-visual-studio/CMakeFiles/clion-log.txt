@@ -1,0 +1,6 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\vbyko\CLionProjects\aisd3
+-- Configuring done
+CMake Error: RelativePath must be passed a full path to remote: /
+CMake Error: RelativePath must be passed a full path to remote: /
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.
